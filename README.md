@@ -11,6 +11,5 @@ For each simulation the following parameters are controllable:
 5. t_final : Final time simulation will go to
 6. max_niter : Maximum number of iterations to perform
 7. plot : Plots intermediate plots throughout simulation
-8. save_file_names : If not None, saves file to path/file name provided (file_name_for_concentration, file_name_for_energy)
 
 Folders are named based off these simulation parameters in the following way : {N}_{b}_{M}_{kappa}_{t_final}_{max_niter} where p means decimal point
